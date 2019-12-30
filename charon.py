@@ -1,7 +1,7 @@
 chr(32)
 print("Nombre: Joel Valdez")
 print("Edad: 21")
-Print("Pais: Argentina")
+print("Pais: Argentina")
 print("Provincia: Buenos Aires")
 print("Localidad: Aldo Bonzi")
 print("Hermanos: Kevin Valdez | Eric Valdez")
